@@ -17,10 +17,12 @@ DEFINES += QT_DEPRECATED_WARNINGS
 
 SOURCES += \
     main.cpp \
-    mainwindow.cpp
+    mainwindow.cpp \
+    snowflake.cpp
 
 HEADERS += \
-    mainwindow.h
+    mainwindow.h \
+    snowflake.h
 
 FORMS += \
     mainwindow.ui
